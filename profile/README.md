@@ -1,6 +1,6 @@
 # 👋 Welcome to the NeopilotAI GitHub Profile!
 
-![NeopilotAI Banner](./neopilotai-banner.svg)
+![NeopilotAI Banner](./profile/neopilotai-banner.svg)
 
 ## 🚀 About Us
 
