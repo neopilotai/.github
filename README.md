@@ -51,4 +51,4 @@ Whether it’s code, docs, tutorials, or ideas, your input is welcome.
 
 > **Let’s build the future of AI, together!** 💡
 
-![NeopilotAI Logo](https://neopilot.github.io/assets/logo.png)
+![NeopilotAI Logo](./neopilotai-logo.svg)
